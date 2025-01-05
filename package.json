@@ -1,0 +1,17 @@
+{
+  "name": "snow-doge",
+  "version": "1.0.0",
+  "description": "Analyzes Canadian government contracts for efficiency and transparency",
+  "module": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun run src/index.ts",
+    "dev": "bun --watch run src/index.ts"
+  },
+  "dependencies": {
+    "openai": "^4.20.1"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  }
+} 
