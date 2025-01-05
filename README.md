@@ -1,6 +1,6 @@
 # 🔍 SnowDoge: Canadian Government Contract Analyzer
 
-An AI-powered tool that analyzes Canadian government contracts to identify potential issues, inefficiencies, and matters of public interest. Named after the legendary transparency advocates who dig through government spending data.
+An LLM-powered tool that analyzes Canadian government contracts to identify potential issues, inefficiencies, and matters of public interest. Named after the legendary transparency advocates who dig through government spending data.
 
 ## 🎯 Purpose
 
